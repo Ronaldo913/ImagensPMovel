@@ -1,0 +1,21 @@
+main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+h1{
+    color: rgba(3, 149, 57, 0.6);
+}
+
+header{
+    display: flex;
+    align-items: center;
+}
+
+header a{
+    margin: 8px;
+    border: none;
+    color: rgba(3, 149, 57, 0.6);
+}
